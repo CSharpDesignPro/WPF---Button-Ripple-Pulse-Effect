@@ -1,4 +1,4 @@
-# WPF - Button Ripple / Pulse Effect
+# WPF - Button Ripple / Pulse Effect Animation
 
 Video Tutorial Link : https://youtu.be/nZYD45NsGaE
 
